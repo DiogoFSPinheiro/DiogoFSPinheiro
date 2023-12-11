@@ -20,7 +20,7 @@ Ready player one? Let the coding games begin! 🚀👾✨
       <a href="https://github.com/DiogoFSPinheiro?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DiogoFSPinheiro?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
        <a href="https://www.linkedin.com/in/diogofspinheiro">
-         <img alt="Linkdin" title="Linkdin" src="https://custom-icon-badges.demolab.com/badge/-Linkdin-blue?style=for-the-badge&logo=linkdin&logoColor=white"/></a>
+         <img alt="Linkdin" title="Linkdin" src="https://custom-icon-badges.demolab.com/badge/-Linkdin-blue?style=for-the-badge&logo=in&logoColor=white"/></a>
       <a href="https://profile.intra.42.fr/users/diogosan">
          <img alt="42Profile" title="42Profile" src="https://custom-icon-badges.demolab.com/badge/-Profile-black?style=for-the-badge&logo=42&logoColor=white"/></a>
    </p>
@@ -33,14 +33,13 @@ Ready player one? Let the coding games begin! 🚀👾✨
   </a>
 </p>
 
-
-
 ---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />     
+<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />     
+<br />
 <br />
 
 #
@@ -51,18 +50,11 @@ Ready player one? Let the coding games begin! 🚀👾✨
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-<!-- <h3>💻 GitHub Profile Stats</h3> -->
-
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DiogoFSPinheiro's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DiogoFSPinheiro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DiogoFSPinheiro's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DiogoFSPinheiro&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
-
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DiogoFSPinheiro's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DiogoFSPinheiro&bg_color=172f45&color=b1c2d3&line=2d7cc5&point=FFFFFF&hide_border=true" /></a>
 
 
