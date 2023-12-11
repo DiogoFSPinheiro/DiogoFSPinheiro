@@ -28,9 +28,9 @@ Ready player one? Let the coding games begin! 🚀👾✨
  ---
 ### My 42 Progress!
 <p align="left">
-  <a href="https://github.com/oakoudad/badge42">
+  < href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/binary/diogosan?1337Badge=off&UM6P=off" alt="diogosan's 42 stats" />
-  </a>
+  </>
 </p>
 
 ---
