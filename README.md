@@ -19,8 +19,10 @@ Ready player one? Let the coding games begin! 🚀👾✨
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DiogoFSPinheiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/DiogoFSPinheiro?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/DiogoFSPinheiro?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-       <a href="https://www.linkedin.com/in/diogofspinheiro/">
+       <a href="https://www.linkedin.com/in/diogofspinheiro">
          <img alt="Linkdin" title="Linkdin" src="https://custom-icon-badges.demolab.com/badge/-Linkdin-blue?style=for-the-badge&logo=linkdin&logoColor=white"/></a>
+      <a href="https://profile.intra.42.fr/users/diogosan">
+         <img alt="42Profile" title="42Profile" src="https://custom-icon-badges.demolab.com/badge/-Profile-black?style=for-the-badge&logo=42&logoColor=white"/></a>
    </p>
 
  ---
