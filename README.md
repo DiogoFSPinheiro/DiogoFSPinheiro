@@ -51,11 +51,11 @@ Ready player one? Let the coding games begin! 🚀👾✨
 
 ### 📊 Stats
 
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoFSPinheiro&show_icons=true&theme=prussian)
+<!-- ![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiogoFSPinheiro&show_icons=true&theme=prussian)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-<h3>💻 GitHub Profile Stats</h3>
+<!-- <h3>💻 GitHub Profile Stats</h3> -->
 
   <!-- https://github.com/anuraghazra/github-readme-stats -->
 
