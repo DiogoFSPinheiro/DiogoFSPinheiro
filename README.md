@@ -14,9 +14,6 @@ Feel free to explore, comment, and collaborate. After all, the beauty of coding 
 
 Ready player one? Let the coding games begin! 🚀👾✨
 
-
-
-
 <p align="left">
       <a href="https://github.com/DiogoFSPinheiro?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/DiogoFSPinheiro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
@@ -26,8 +23,6 @@ Ready player one? Let the coding games begin! 🚀👾✨
          <img alt="Linkdin" title="Linkdin" src="https://custom-icon-badges.demolab.com/badge/-Linkdin-blue?style=for-the-badge&logo=linkdin&logoColor=white"/></a>
    </p>
 
-
-  
  ---
 ### My 42 Progress!
 <p align="left">
@@ -38,12 +33,11 @@ Ready player one? Let the coding games begin! 🚀👾✨
 
 
 
-#
+---
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />     
 <br />
 
