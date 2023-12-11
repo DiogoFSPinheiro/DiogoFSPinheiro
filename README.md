@@ -50,8 +50,8 @@ Ready player one? Let the coding games begin! 🚀👾✨
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DiogoFSPinheiro's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DiogoFSPinheiro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DiogoFSPinheiro's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DiogoFSPinheiro&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DiogoFSPinheiro's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DiogoFSPinheiro&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5" height="170px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DiogoFSPinheiro's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DiogoFSPinheiro&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=172f45&title_color=b1c2d3&icon_color=2d7cc5&hide=Jupyter%20Notebook,Roff" height="170px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
