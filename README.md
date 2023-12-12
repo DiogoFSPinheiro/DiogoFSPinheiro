@@ -1,5 +1,6 @@
 #  🏊‍♂️ Diogo Pinheiro 
 
+**`Digital Craftsman`**
 👋 Hello, fellow developers! Welcome to my GitHub playground! 🚀
 
 I'm Diogo, a budding developer on an exciting journey through the coding cosmos. Currently navigating the challenges and triumphs at 42Porto School, I'm honing my skills in the vast universe of programming.
