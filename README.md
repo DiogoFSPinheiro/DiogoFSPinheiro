@@ -29,7 +29,8 @@ Ready player one? Let the coding games begin! 🚀👾✨
 
  ---
 ### My 42 Progress!
-<p align="left">
+
+<p align="center">
     <img src="https://badge.mediaplus.ma/binary/diogosan?1337Badge=off&UM6P=off" alt="diogosan's 42 stats" />
   </>
 </p>
@@ -38,14 +39,12 @@ Ready player one? Let the coding games begin! 🚀👾✨
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="C" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /> 
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<!--https://devicon.dev/-->
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,vscode,python,github,arduino,linux,bash,ubuntu,linkedin,godot" />
+    </a>
+  </p>
 <br />
 <br />
 
