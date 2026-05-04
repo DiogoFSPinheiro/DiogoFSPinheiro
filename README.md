@@ -27,7 +27,7 @@ Ready player one? Let the coding games begin! 🚀👾✨
          <img alt="42Profile" title="42Profile" src="https://custom-icon-badges.demolab.com/badge/-Profile-black?style=for-the-badge&logo=42&logoColor=white"/></a>
    </p>
 
- ---
+<!---  ---
 ### My 42 Progress!
 <br />
 <p align="center">
@@ -35,7 +35,7 @@ Ready player one? Let the coding games begin! 🚀👾✨
   </>
 </p>
 
----
+--- --->
 
 ### 🧰 Languages and Tools
 <br />
